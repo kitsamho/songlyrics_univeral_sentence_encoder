@@ -18,11 +18,11 @@ There is a notebook containing the scraper class [here](https://github.com/kitsa
 - We will use Plotly and build a combination of simple plots and more sophisticated 2d and 3d scatter plots to see where there are similarities and differences in lyrics
 
 There is a notebook [here](https://github.com/kitsamho/songlyrics_univeral_sentence_encoder/blob/master/Notebooks/SongLyrics_Analysis%20Notebook.ipynb) containing all the project code that covers stages 1 and 2
----
-
 
 ## Results / Thoughts
 We have shown that lyrics from different music genres do vary although what is interesting is that there is quite a clear relationship between lyrical content as we move from one genre to another in a stepwise fashion. I think the visualization below quite clearly brings this to life.
+
+![Alt text](https://github.com/kitsamho/songlyrics_univeral_sentence_encoder/blob/master/assets/sim_pc1_genre.png?raw=true "Title")
 
 The lyrics of different genres aren’t entirely mutually exclusive — unless you compare the extremes. i.e. there is a huge difference between death metal and soul/r&b but little in the way to differentiate pop and pop/rock.
 
