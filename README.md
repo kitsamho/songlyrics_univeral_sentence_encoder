@@ -1,5 +1,9 @@
 # songlyrics_univeral_sentence_encoder
 
+
+
+(https://github.com/kitsamho/songlyrics_univeral_sentence_encoder/blob/master/assets/scat2.png?raw=true "Title")
+
 ## Project Aim
 There are differences between the lyrics of different genres and we can quantify and measure this.
 
